@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Monaliza01
 - 👀 I’m interested in Learning and progress
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me:monalizast33@yahoo.com
 
 <!---
 Monaliza01/Monaliza01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
